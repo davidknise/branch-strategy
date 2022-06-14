@@ -55,4 +55,4 @@ A repo adhering to this branch strategy will contain the following types of bran
 
 ## Disclaimer
 
-This document does not claim any originality.
+This document does not claim any originality. My team came up with our branch strategy many years ago and the only improvement we've seen taht we haven't seen elsewhere is including the work item numbers. It's a common pattern that likely has a name, like the "golden" branch model.
